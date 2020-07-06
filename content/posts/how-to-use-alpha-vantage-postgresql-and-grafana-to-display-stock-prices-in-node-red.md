@@ -13,7 +13,7 @@ layout: post
 ---
 <meta name="description" content="In this tutorial, we will show how to set up Grafana, PostgresSQL and write stock price time series to the database. The time series will be displayed in the Dashboard UI with an embedded Grafana dashboard. ">
 
-<meta name="keywords" content="grafana dashboard, postgresql, alpha vantage, node-red, rodened editor, demonstration flow, integromat, zapier">
+<meta name="keywords" content="grafana dashboard, postgresql, alpha vantage, node-red, apivis editor, demonstration flow, integromat, zapier">
 
 In this tutorial, I will show you how to query Alpha Vantage for Microsoft stock price (MSFT). We will load the stock price time series into a PostgresSQL database and then query the database and display it in the Node-RED Dashboard UI. The time series are displayed with a Grafana dashboard that is embedded in the Dashboard UI. Start with installing these nodes if they are not already installed:
 
@@ -52,7 +52,7 @@ Grafana is written as a generic monitoring solution for running monitoring and a
 
 Go to Grafana installation page here: <a href="https://grafana.com/docs/grafana/latest/installation/" target="_blank">Grafana installation</a> and follow the instructions for your operating system or use a hosted cloud version. 
 
-On the Rodened cloud platform we can install it directly from the editor by creating install scripts in the same way as explained in this blog article about using <a href="https://www.rodened.com/posts/how-to-use-python-in-node-red-1/" target="_blank">Python in Node-RED</a> 
+On the Rodened cloud platform we can install it directly from the editor by creating install scripts in the same way as explained in this blog article about using <a href="https://www.apivis.com/posts/how-to-use-python-in-node-red-1/" target="_blank">Python in Node-RED</a> 
 
 Minimum recommended memory is 255 MB and 1 CPU.
 

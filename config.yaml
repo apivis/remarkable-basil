@@ -2,7 +2,7 @@ title: APIVIS
 baseURL: https://www.apivis.com/
 params:
   footer:
-    content: '&copy; RODENED. All rights reserved.'
+    content: '&copy; APIVIS. All rights reserved.'
     has_nav: true
     has_social: false
     has_subscribe: true

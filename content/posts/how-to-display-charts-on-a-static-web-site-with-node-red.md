@@ -11,7 +11,7 @@ A static web site is fast and flexible but it is not so easy to keep them update
 
 ![](/images/editor_charts.jpg)
 
-Here is an example of how to use Node-red in the cloud on https://www.rodened.com to update a static Hugo site on github with interactive time series line charts or heat maps with Plotly and Vega lite.
+Here is an example of how to use Node-red in the cloud on https://www.apivis.com to update a static Hugo site on github with interactive time series line charts or heat maps with Plotly and Vega lite.
 
 ![](/images/vega.png)
 

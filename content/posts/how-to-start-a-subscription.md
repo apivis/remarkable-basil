@@ -6,7 +6,7 @@ excerpt: >-
   Start with creating a github account if you don't allready have one. Go to
   github.com and sign up. Go to settings and then developer settings and create
   a new OAuth app. When you are finished with that click on Login to dashboard
-  on the pricing page or on the first page on rodened.com.
+  on the pricing page or on the first page on apivis.com.
 layout: post
 ---
 
@@ -42,7 +42,7 @@ Register the application and copy the Client ID and Client Secret.
 
 ![](/images/github8.png)
 
-Go to rodened.com and select a subscription or click on login to dashboard on the first page. 
+Go to apivis.com and select a subscription or click on login to dashboard on the first page. 
 
 ![](/images/rodenedhomepage1.png)
 
@@ -56,7 +56,7 @@ Click on Log in with Github.
 
 ![](/images/applogin10.png)
 
-Authorize rodened.
+Authorize apivis.
 
 ![](/images/rodenedapp2.png)
 
@@ -84,7 +84,7 @@ Create a payment plan.
 
 ![](/images/rodenedapp7.png)
 
-Now you will have a box with the server details on the app.rodened.io dashboard. Click on the OAuth settings.
+Now you will have a box with the server details on the app.apivis.io dashboard. Click on the OAuth settings.
 
 ![](/images/rodenedapp8.png)
 
