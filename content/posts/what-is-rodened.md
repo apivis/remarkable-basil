@@ -1,20 +1,20 @@
 ---
-title: What is Rodened?
+title: What is Apivis?
 date: 2020-01-16T19:29:21.867Z
 thumb_img_path: /images/asphalt-blur-car-290470.jpg
 img_path: /images/asphalt-blur-car-290470.jpg
 excerpt: >-
-  The Rodened cloud-based editor is based on Node-RED which is open-source and
+  The Apivis cloud-based editor is based on Node-RED which is open-source and
   maintained by JS Foundation with primary contributors coming from IBM and
   Hitachi. According to the Github project README, Node-RED is “a visual tool
   for wiring the Internet of Things.”
 layout: post
 ---
-<meta name="description" content="Learn more why the Rodened cloud editor is great for fast IT automation, MVP development, backend services, front-end testing, and service API creation. It is a visual programming tool built on Node.js and Node-RED making it incredibly lightweight. It is widely adopted and supported by a large community. Because of this, there are tons of example available online. Read the full story. ">
+<meta name="description" content="Learn more why the Apivis cloud editor is great for fast IT automation, MVP development, backend services, front-end testing, and service API creation. It is a visual programming tool built on Node.js and Node-RED making it incredibly lightweight. It is widely adopted and supported by a large community. Because of this, there are tons of example available online. Read the full story. ">
 
 <meta name="keywords" content="fast IT automation, MVP development, backend services, front-end testing, service API creation, apivis editor, visual programming, no coding, integromat alternative, zapier alternative, activechat alternative">
 
-The Rodened cloud-based editor is based on Node-RED which is open-source and maintained by JS Foundation with primary contributors coming from IBM and Hitachi.  According to the Github project README, Node-RED is “a visual tool for wiring the Internet of Things.”
+The Apivis cloud-based editor is based on Node-RED which is open-source and maintained by JS Foundation with primary contributors coming from IBM and Hitachi.  According to the Github project README, Node-RED is “a visual tool for wiring the Internet of Things.”
 
 ## Not just for IoT
 
@@ -35,7 +35,7 @@ The Node-RED website features both a cookbook full of recipes that solve common 
 
 ## Version control
 
-In the Rodened cloud editor, we are using the project setting as default.  The flows created are backed by a Git repository, meaning all of the files are fully version controlled and allow developers to use familiar workflows to collaborate with others.
+In the Apivis cloud editor, we are using the project setting as default.  The flows created are backed by a Git repository, meaning all of the files are fully version controlled and allow developers to use familiar workflows to collaborate with others.
 
 ## Frontend
 
@@ -68,3 +68,8 @@ Connect IoT devices is an obvious use case. Here follows some other cases:
 ## Testing the flows
 
 It is important to be able to test that the flows you create work as intended.  Here is nodes that can be used for testing the [flows](https://github.com/node-red/node-red/wiki/Flow-testing)
+
+## Support with flows
+
+We have a Telegram chatbot that uses the latest in NLP, Natural Language Processing that can answer frequently asked questions about building flows with the Node-RED editor.
+This Youtube video shows you how to use it:  https://youtu.be/wbkLMtuh8KA
