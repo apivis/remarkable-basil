@@ -40,8 +40,8 @@ sections:
           <a href="https://nodered.apivis.io/#flow/5fa11f1a.5c106" target="_blank">
           Python</a> or javascript or R and make them available from a javascript application 
           <a href="https://www.apivis.com/posts/make-a-front-end-ui-for-a-weather-service/" target="_blank">frontend</a>.
-          image: /images/ML.png
-          title: Setup a frontend for a machine learning model
+         image: /images/ML.png
+         title: Setup a frontend for a machine learning model
        - content: >-
             Health check websites, home appliances power consumtion, 3D printer or
             other devices.
