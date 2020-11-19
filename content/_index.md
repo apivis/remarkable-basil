@@ -38,10 +38,9 @@ sections:
         image: /images/ML.png
         title: Setup a frontend for a machine learning model
       - content: >-
-           Health check websites, home appliances power consumtion, 3D printer or
-           other devices.
-         image: /images/black-flat-screen-computer-monitor-1714208.jpg
-         title: Monitor network and devices
+           Health check websites, home appliances power consumtion, 3D printer or other devices.
+        image: /images/black-flat-screen-computer-monitor-1714208.jpg
+        title: Monitor network and devices
       - content: >-
           There is lot of resources to look into if you don't know how to build
           a flow in the APIVIS editor. A good place to start is our editor that
